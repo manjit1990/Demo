@@ -17,7 +17,7 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
-        /////// here is sonu
+        /////// here is monu
         setContent {
             ROOMTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
